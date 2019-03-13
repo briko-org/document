@@ -276,10 +276,6 @@ The user credit system provides evidence for rewarding continuous contributions 
 
 ## ——Core Team——
 
-### **Ju Huo**
-
-Over 20 years of experience in software development, architecture, and technology management. Founder of the pioneer enterprise search engine and cloud computing service company in China: Ginkgotek. Senior researcher of Shengda Innovations. He provides technical consulting services to international media corporations such as NYT Chinese and FT Chinese as an independent consultant. Ju is also one of the most influential bloggers in the technology and hacker/crypto field in China.
-
 ### **Miao Cui**
 
 More than 10 years of experience in large project management and software development。Lead projects in many Internet companies, held positions as senior manager of technology. Master degree from Beijing University of Posts and Telecommunications.
@@ -295,6 +291,10 @@ Doctor of Philosophy in EE from University of Toronto. Research areas include da
 ### **Yuhui Feng**
 
 Master of Applied Science from University of Toronto. Research areas include human-machine interactions of robotic systems, Integration and application of intelligent mechanics in industrial settings and healthcare industries. Years of experience in software development.
+
+### **Ju Huo**
+
+Over 20 years of experience in software development, architecture, and technology management. Founder of the pioneer enterprise search engine and cloud computing service company in China: Ginkgotek. Senior researcher of Shengda Innovations. He provides technical consulting services to international media corporations such as NYT Chinese and FT Chinese as an independent consultant. Ju is also one of the most influential bloggers in the technology and hacker/crypto field in China.
 
 ## Reference
 
