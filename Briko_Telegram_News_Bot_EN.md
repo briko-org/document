@@ -12,7 +12,7 @@ We make this COVID-19 news bot to translate news headlines and SNS messages to y
 
 ![](./Telegram_bot_1.png)
 
-* We have a telegram channel publishing latest news and valuable social media posts about COVID-19, with a bot translating them into different languages.
+* We have a telegram channel (https://t.me/briko4covid19) publishing latest news and valuable social media posts about COVID-19, with a bot translating them into different languages.
 
 * A group of volunteers from different background of native languages and cultures cooperate to provide news headlines and SNS messages to the bot.
 
