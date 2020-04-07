@@ -1,5 +1,8 @@
 # COVID-19 Telegram新闻机器人
 ----------
+## Open source repo
+
+* Telegram Bot https://github.com/briko-org/brikobot
 
 ## 我们为什么做这个 COVID-19 新闻机器人
 
