@@ -1,3 +1,5 @@
+[English Version](https://github.com/briko-org/document/blob/master/Briko_Telegram_News_Bot_EN.md)
+
 # COVID-19 Telegram新闻机器人
 ----------
 ## Open source repo
