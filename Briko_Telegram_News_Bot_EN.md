@@ -2,6 +2,7 @@
 ----------
 ## Open source repo
 * Telegram Bot https://github.com/briko-org/brikobot
+* Translation Service https://github.com/briko-org/BrikoTranslationService
 
 ## Why do we make this COVID-19 news bot?
 People all around the world started to focus on the COVID-19 every it was declared as a global pandemic by WHO. In addition to crawling social networks for all the related local news, we also have this urge of trying to find out how other countries are doing despite the language barrier. 
