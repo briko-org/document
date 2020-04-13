@@ -4,6 +4,7 @@
 ----------
 ## Open source repo
 * Telegram Bot https://github.com/briko-org/brikobot
+* Translation Service https://github.com/briko-org/BrikoTranslationService
 
 ## 我们为什么做这个 COVID-19 新闻机器人
 
